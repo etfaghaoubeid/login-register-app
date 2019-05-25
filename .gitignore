@@ -1,2 +1,6 @@
 node_modules
+<<<<<<< HEAD
 config/localKeys 
+=======
+config/localKeys
+>>>>>>> 2f698b5d3324ab13a528014527de395a46b7d907
